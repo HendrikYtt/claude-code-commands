@@ -1,0 +1,14 @@
+node_modules/
+dist/
+dist-cjs/
+.env
+.env.local
+*.log
+bun.lockb
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+terraform.tfvars
